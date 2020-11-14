@@ -1,5 +1,5 @@
 # Nature Mount
-A simple theme for [Yunohost](https://yunohost.org), based on an illustration by Rob Green.
+A simple theme for [Yunohost](https://yunohost.org), based on Nature Mount.
 
 
 ## How to install
