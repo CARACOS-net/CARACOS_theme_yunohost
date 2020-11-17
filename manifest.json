@@ -1,17 +1,17 @@
 {
-    "name": "nature-mount",
-    "id": "nature-mount",
+    "name": "CARACOS_YUNOHOST",
+    "id": "caracos_yunohost",
     "packaging_format": 1,
     "description": {
         "en": "An illustrated theme.",
-        "fr": "Un theme illustrer."
+        "fr": "Un thème illustré."
     },
-    "version": "0.9.5",
-    "url": "https://gitlab.com/stilobique/nature-mount",
+    "version": "0.1",
+    "url": "https://github.com/CARACOS-net/CARACOS_theme_yunohost",
     "license": "AGPL-3.0",
     "maintainer": {
-        "name": "Vaillant Aurelien",
-        "email": "aurelienvlt@free.fr"
+        "name": "Martin CRONEL",
+        "email": "martin.cronel@caracos.net"
     },
     "requirements": {
         "yunohost": ">= 3.7.0.12",
