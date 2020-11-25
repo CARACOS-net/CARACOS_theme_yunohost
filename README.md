@@ -1,4 +1,4 @@
-# Nature Mount
+# CARACOS theme
 A simple theme for [Yunohost](https://yunohost.org), based on Nature Mount.
 
 
